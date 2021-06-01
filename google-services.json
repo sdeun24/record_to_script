@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41653037768",
+    "project_id": "record-to-script",
+    "storage_bucket": "record-to-script.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41653037768:android:622915bfc730d7f67693fd",
+        "android_client_info": {
+          "package_name": "com.postech.ee.record_to_script"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41653037768-2f9r6ofig60h9fjv60rceb4pcopmpdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZiJDhOHRoOB-gJiwnKFt-bPMdaAnApA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41653037768-2f9r6ofig60h9fjv60rceb4pcopmpdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

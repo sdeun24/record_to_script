@@ -1,0 +1,6 @@
+google-api-python-client
+google-api-core
+google-cloud-firestore
+google-cloud-storage
+cachecontorl
+firebase_admin
